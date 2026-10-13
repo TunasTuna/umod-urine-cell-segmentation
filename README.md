@@ -1,4 +1,15 @@
-# umod-unet
+<div align="center">
+
+<img src="./docs/signify-banner.png" alt="umod-unet" width="700">
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=flat&logo=python&logoColor=white)
+![Architecture](https://img.shields.io/badge/Architecture-ResNet34--UNet-blue)
+![Dataset](https://img.shields.io/badge/Dataset-UMOD-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Personal%20Project-yellow)
+
+</div>
 
 Pixel-level segmentation of urine microscopy images into 8 classes (background + 7 cell types), trained and evaluated on the open [UMOD dataset](https://rodare.hzdr.de/record/2563). A ResNet34 U-Net with an ImageNet-pretrained encoder, written in PyTorch.
 
