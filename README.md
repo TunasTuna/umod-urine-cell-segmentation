@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./docs/signify-banner.png" alt="umod-unet" width="700">
+# umod-unet
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=flat&logo=python&logoColor=white)
